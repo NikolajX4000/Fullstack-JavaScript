@@ -1,3 +1,3 @@
 # Fullstack-JavaScript
 
-learnyoucode: https://github.com/NikolajX4000/Fullstack-JavaScript-learnyoucode
+learnyoucode: https://github.com/sem4-fullstack-javascript/Fullstack-JavaScript-learnyoucode
