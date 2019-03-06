@@ -6,4 +6,4 @@
 ## Hand-ins
 
 [Period 1](https://sem4-fullstack-javascript.github.io/Hand-in-Period-1/)  
-[Period 2](https://github.com/sem4-fullstack-javascript/Hand-in-Period-2)  
+[Period 2](https://sem4-fullstack-javascript.github.io/Hand-in-Period-2/)  
