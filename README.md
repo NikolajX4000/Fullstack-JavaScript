@@ -1,6 +1,8 @@
 [Back to Semester Overview](https://nikolajx4000.github.io/CBA-4th-Semester/)
 # Fullstack-JavaScript
 
+[Exam Notes](https://sem4-fullstack-javascript.github.io/Exam/)
+
 [learnyoucode](https://github.com/sem4-fullstack-javascript/Fullstack-JavaScript-learnyoucode)  
 [Mini Project](https://github.com/sem4-fullstack-javascript/MiniProject)  
 
